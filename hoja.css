@@ -1,0 +1,112 @@
+body {
+    background-image: url( "http://www.delicias.tv/blog/wp-content/uploads/2016/09/collage-1-768x432.jpg");
+    font-family: Georgia;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px; 
+    background-color: #fff; 
+    border: 6px solid gray;
+    color: #681b1b; 
+    margin: 50px 200px ;
+} 
+
+header { 
+    color:#fff;
+    font-size: 20px;
+    text-align: right; 
+    padding: 5px 20px 5px 0;
+    background-color: #000;
+}
+
+#izquierda img {
+    width: 60px;
+    height: 60px;
+    margin-left: 200px; 
+}
+#izquierda {
+    float:left;
+    width: 15%;
+}
+#centro {
+    margin-left:15%; 
+    margin-right:15%;
+    margin-top: 150px;
+    }
+
+h2 {    
+    padding: 9px 9px;
+    margin-right: 250px ;
+    margin-left:  45px ;
+    border: 6px solid gray; 
+    background-color: #fff; 
+    text-align: center;
+}
+
+select {
+    border: 6px solid gray; 
+    font-size: 20px; 
+    padding: 9px 60px;
+    margin-left: 23px ;
+    background-color: gray; 
+    color: #fff;
+    font-weight: bold;
+}
+#derecha {
+    float: right ;
+    width: 35%; 
+} 
+
+.class {
+    clear: both;
+}
+#tercera {
+    background-color: #fff;
+    margin-top:200px; 
+    text-align: center;
+} 
+h3 {
+    padding-top: 20px;
+    text-align: left;
+    margin-left: 50px;
+}
+#izq,#izq2 {
+    float: left;
+    width: 30%;
+}
+#izq > img,#izq2 > img {
+    width: 200px;
+    height: 170px;
+
+}
+#der,#der2 {
+    float: right;
+    width: 30%;
+}
+#der> img,#der2 > img {
+    width: 200px;
+    height: 170px;
+
+}
+#cent ,#cent2 {
+    margin-right: 30%;
+    margin-left: 30%;
+}
+#cent> img ,#cent2 > img {
+    width: 200px;
+    height: 170px;
+}
+
+#cuarto {
+    background-color: #fff;
+    text-align: center;
+} 
+footer {
+    color: #fff;
+    margin-top: 100px;
+    font-size: 20px;
+    text-align: right; 
+    padding: 5px 20px 5px 0;
+    background-color: #000;
+}
